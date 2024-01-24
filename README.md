@@ -1,5 +1,7 @@
 # Events Website
 Welcome to the Events Website project! This simple website showcases upcoming events and provides information about each event.
+
+
 ![event htmlcss](https://github.com/shvinjas/Event-Page/assets/112388713/4723873c-e985-484f-8635-fbcaace49497)
 
 
